@@ -1,0 +1,24 @@
+<svg width="390" height="126" viewBox="0 0 390 126" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1014_5086)">
+<circle cx="102.915" cy="134.896" r="64.1033" fill="#F2F1F6"/>
+<circle cx="359.328" cy="117.103" r="64.1033" fill="#F2F1F6"/>
+<circle cx="195.51" cy="151.673" r="46.8056" fill="#F2F1F6"/>
+<circle cx="273.856" cy="145.072" r="46.8056" fill="#F2F1F6"/>
+<circle cx="13.3739" cy="99.8056" r="46.8056" fill="#F2F1F6"/>
+<g opacity="0.2">
+<circle cx="102.915" cy="134.896" r="74.6033" fill="#F2F1F6" stroke="#F2F1F6" stroke-width="21"/>
+<circle cx="359.328" cy="117.103" r="74.6033" fill="#F2F1F6" stroke="#F2F1F6" stroke-width="21"/>
+<circle cx="195.51" cy="151.673" r="57.3056" fill="#F2F1F6" stroke="#F2F1F6" stroke-width="21"/>
+<circle cx="273.857" cy="145.072" r="57.3056" fill="#F2F1F6" stroke="#F2F1F6" stroke-width="21"/>
+</g>
+<g opacity="0.2">
+<circle cx="359.328" cy="117.103" r="90.1033" fill="#F2F1F6" stroke="#F2F1F6" stroke-width="52"/>
+<circle cx="195.51" cy="151.673" r="72.8056" fill="#F2F1F6" stroke="#F2F1F6" stroke-width="52"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1014_5086">
+<rect width="390" height="126" fill="white" transform="matrix(1 0 0 -1 0 126)"/>
+</clipPath>
+</defs>
+</svg>
